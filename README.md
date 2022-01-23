@@ -3,9 +3,9 @@
 </p>
 <div align="center">
 
-# EatKano，修改：Gsoupiscoming
+# EatKano
 
-网页小游戏
+网页小游戏,修改：Gsoupiscoming
 
 </div>
 
