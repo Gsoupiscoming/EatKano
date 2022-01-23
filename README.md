@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatXuhuang
 
 网页小游戏,修改：Gsoupiscoming
 
