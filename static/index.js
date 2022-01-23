@@ -341,11 +341,11 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return '试着好好练一下？';
-    if (score <= 99) return 'TCL';
-    if (score <= 149) return 'TQL';
-    if (score <= 199) return '您';
-    return '人？';
+    if (score <= 29) return '好菜哦';
+    if (score <= 49) return '就这就这';
+    if (score <= 100) return '徐徐生日快乐捏';
+    if (score <= 150) return '别打了，往上没有了';
+    return '真的没有了';
 }
 
 function toStr(obj) {
@@ -408,7 +408,7 @@ function goRank() {
     }
     window.location.href=link;
 }
-console.log("不修改，好嘛？乱传又有什么用呢？(ˉ▽ˉ；)...")
+console.log("小徐徐生日快乐捏")
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
         return false
